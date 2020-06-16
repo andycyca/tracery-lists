@@ -1,0 +1,4 @@
+#eons# eon
+#epochs# epoch
+#eras# era
+#periods# period

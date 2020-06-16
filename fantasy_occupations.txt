@@ -1,0 +1,246 @@
+abbess
+abbot
+acater
+adept
+agent
+alchemist
+almoner
+animist
+apothecary
+arbalestier
+arcane archer
+arcanist
+archbishop
+archer
+archmage
+ardent
+armorer
+artificer
+artisan
+assassin
+astrologer
+baker
+bandit
+banker
+barbarian
+bard
+battle mage
+battlemage
+battlerager
+beast warrior
+beastlord
+beastmaster
+beggar
+berserker
+binder
+bishop
+black belt
+black mage
+black wizard
+blackguard
+blacksmith
+bladesinger
+blue mage
+boatman
+boothaler
+bounty hunter
+brother
+buffoon
+builder
+burglar
+butcher
+cannoneer
+captain
+cardinal
+carpenter
+cavalier
+chaplain
+chemist
+chieftain
+chocobo knight
+cleric
+clown
+constable
+corsair
+dancer
+dark knight
+dean
+defender
+delver
+demolitionist
+devout
+divine born
+divine knight
+dragon knight
+dragon rider
+dragonslayer
+dragoon
+druid
+duelist
+elementalist
+engineer
+evoker
+falconer
+farmer
+fell knight
+fencer
+fiddler
+fighter
+fishmonger
+flintlock
+footpad
+freelancer
+friar
+fusilier
+gadgeteer
+gambler
+geomancer
+gladiator
+gravedigger
+green mage
+guard
+guardian
+gunner
+gunsmith
+haberdasher
+halberdier
+hawker
+healer
+heretic
+heritor
+hermetic
+hermit
+hero
+hunter
+illusionist
+infiltrator
+innkeeper
+inquisitor
+ironmonger
+jester
+judge
+juggler
+knight
+lancer
+lanista
+lord
+lurk
+machinist
+mage
+magic knight
+magus
+marauder
+mariner
+mason
+mathematician
+mediator
+medic
+mercenary
+merchant
+mime
+minstrel
+mog knight
+monk
+morpher
+musketeer
+mystic
+mystic knight
+navigator
+necromancer
+netherseer
+ninja
+nun
+onion knight
+oracle
+outlaw
+painter
+paladin
+paragon
+parivir
+peddler
+philosopher
+pickpocket
+pilgrim
+pilot
+piper
+pirate
+poacher
+poet
+pope
+priest
+priestess
+professor
+prophet
+psion
+psyblade
+psychic warrior
+puppetmaster
+pyro
+raider
+ranger
+raptor
+ravager
+rebel
+red mage
+red wizard
+regulator
+rogue
+runeseeker
+sage
+sailor
+saint
+samurai
+sapper
+scavenger
+scholar
+scout
+sculptor
+seafarer
+seer
+sergeant
+shadowdancer
+shaman
+singer
+sister
+skinner
+skirmisher
+sky pirate
+skyseer
+sniper
+soldier
+songstress
+sorcerer
+soulknife
+spellblade
+spider rider
+spidermage
+spy
+squire
+summoner
+swashbuckler
+tanner
+taverner
+templar
+theologian
+thief
+thug
+time mage
+tinker
+trainer
+trickster
+troubadour
+tutor
+viking
+vindicator
+warden
+warlock
+warlord
+warmage
+warrior
+whisperer
+white mage
+white wizard
+witch
+witch doctor
+witchhunter
+wizard

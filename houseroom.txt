@@ -1,0 +1,11 @@
+attic
+backyard
+basement
+bedroom
+bungalow
+dining room
+front yard
+guest room
+kitchen
+master bedroom
+pool

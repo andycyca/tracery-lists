@@ -1,0 +1,14 @@
+aluminium
+bone
+copper
+glass
+gold
+iron
+silver
+stone
+tin
+volcanic-stone
+wood
+cardboard
+hard-resin
+silk

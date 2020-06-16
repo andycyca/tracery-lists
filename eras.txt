@@ -1,0 +1,15 @@
+Cenozoic
+Cryptic
+Eoarchean
+Eohadean
+Mesoarchean
+Mesohadean
+Mesoproterozoic
+Mesozoic
+Neoarchean
+Neohadean
+Neoproterozoic
+Paleoarchean
+Paleohadean
+Paleoproterozoic
+Paleozoic

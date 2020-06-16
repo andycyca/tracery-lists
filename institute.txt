@@ -1,0 +1,10 @@
+Academy
+Association
+Center
+Guild
+Hall
+Laboratory
+Library
+School
+Symposium
+University

@@ -1,0 +1,20 @@
+brother
+sister
+mom
+dad
+mother
+father
+cousin
+uncle
+aunt
+nephew
+niece
+brother-in-law
+sister-in-law
+father-in-law
+mother-in-law
+grandfather
+grandmother
+great grandfather
+great grandmother
+#smallordinal# cousin (#smallcounters# removed)
