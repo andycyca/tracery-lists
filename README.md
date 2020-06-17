@@ -1,9 +1,10 @@
 # tracery-lists
+
 ## Lists for use in Tracery
 
 [Kate Compton (@galaxykate)](http://www.galaxykate.com/) created [Tracery: a story-grammar generation library for javascript](https://github.com/galaxykate/tracery/tree/tracery2). In order to use it, you need lists of words.
 
-Here are some of mine. I use them with [Allison Parrish](http://www.decontextualize.com/)'s [pytracery](https://github.com/aparrish/pytracery).
+Here are some of mine. I use them with [Allison Parrish](http://www.decontextualize.com/)'s [pytracery](https://github.com/aparrish/pytracery). **Please let me know if you use these**, makes me happy to know this work can help others
 
 It goes more or less like this:
 
@@ -34,3 +35,7 @@ grammar.add_modifiers(base_english)
 for _ in range(5):
     print(grammar.flatten("#origin#"))
 ```
+
+See also:
+
+- [dariusk/corpora](https://github.com/dariusk/corpora) for a different, deeper approach to generating things

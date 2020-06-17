@@ -1,0 +1,39 @@
+CD
+backpack
+bed
+bench
+bookmark
+bookshelf
+box
+cane
+cap
+chair
+china set
+cup
+fez
+hoe
+keyboard
+light bulb
+light switch
+mask
+mattress
+necklace
+notebook
+padlock
+paintbrush
+pair of scissors
+pair of shoes
+pair of sunglasses
+pan
+pen
+pencil
+pencil-sharpener
+ring
+skillet
+sofa
+spade
+stove
+table
+toothpick
+water can
+wine stopper

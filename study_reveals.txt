@@ -1,0 +1,4 @@
+#positive_adjective# people tend to #negative_action# a lot more
+#positive_adjective# people tend to #positive_action# a lot more
+#negative_adjective# people tend to #negative_action# a lot more
+#negative_adjective# people tend to #positive_action# a lot more

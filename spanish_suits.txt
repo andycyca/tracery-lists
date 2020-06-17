@@ -1,0 +1,4 @@
+Cups
+Coins
+Clubs
+Swords

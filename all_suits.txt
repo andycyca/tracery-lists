@@ -1,0 +1,5 @@
+#spanish_suits#
+#swiss_german_suits#
+#german_suits#
+#french_suits#
+#minor_arcana_suits#

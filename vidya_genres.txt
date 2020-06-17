@@ -1,0 +1,121 @@
+2D Fighter
+3D Fighter
+3D Platformer
+4X
+Action
+Action RPG
+Action Roguelike
+Action-Adventure
+Adventure
+Arena Shooter
+Auto Battler
+Automobile Sim
+Base Building
+Baseball
+Basketball
+Battle Royale
+Beat 'em up
+Board Game
+Bowling
+Boxing
+CRPG
+Card Battler
+Card Game
+Character Action Game
+Chess
+Choose Your Own Adventure
+City Builder
+Clicker
+Collectathon
+Colony Sim
+Combat
+Combat Racing
+Cycling
+Dating Sim
+Deckbuilding
+Driving
+Dungeon Crawler
+FPS
+Farming Sim
+Fighting
+Flight
+Football
+God Game
+Golf
+Grand Strategy
+Hack and Slash
+Hero Shooter
+Hidden Object
+Hockey
+Idler
+Immersive Sim
+Interactive Fiction
+JRPG
+Looter Shooter
+MOBA
+Management
+Match 3
+Medical Sim
+Metroidvania
+Mini Golf
+Mystery Dungeon
+Naval Combat
+On-Rails Shooter
+Open World Survival Craft
+Outbreak Sim
+Parkour
+Party-Based RPG
+Pinball
+Platformer
+Point & Click
+Political Sim
+Pool
+Precision Platformer
+Puzzle
+Puzzle Platformer
+RPG
+RTS
+Racing
+Real Time Tactics
+Real-Time with Pause
+Rhythm
+Roguelike
+Roguelite
+Roguevania
+Runner
+Sandbox
+Shoot 'Em Up
+Shooter
+Simulation
+Skating
+Skiing
+Snowboarding
+Soccer
+Social Deduction
+Souls-like
+Space Sim
+Spectacle fighter
+Stealth
+Strategy
+Strategy RPG
+Survival
+Survival Horror
+Tactical RPG
+Tennis
+Third-Person Shooter
+Time Management
+Top-Down Shooter
+Tower Defense
+Trading Card Game
+Traditional Roguelike
+Turn-Based Combat
+Turn-Based Strategy
+Turn-Based Tactics
+Twin Stick Shooter
+Typing
+Visual Novel
+Walking Simulator
+Wargame
+Word Game
+World War I
+Wrestling

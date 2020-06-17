@@ -15,7 +15,7 @@ Hundredth
 Thousandth
 Millionth
 n-th
-#numbers1399#th
+#numbers13-99#th
 #nonzerodigits##digits##digits#th
 #nonzerodigits##digits##digits##digits#th
 #nonzerodigits##digits##digits##digits##digits#th

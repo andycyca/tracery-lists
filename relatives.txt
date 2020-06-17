@@ -17,4 +17,4 @@ grandfather
 grandmother
 great grandfather
 great grandmother
-#smallordinal# cousin (#smallcounters# removed)
+#small_ordinal# cousin (#small_counters# removed)
