@@ -1,0 +1,15 @@
+Befunge
+Binary lambda calculus
+Brainfuck
+FRACTRAN
+GolfScript
+INTERCAL
+JSFuck
+LOLCODE
+Malbolge
+ModiScript
+Piet
+Pikachu
+Shakespeare
+Unlambda
+Whitespace

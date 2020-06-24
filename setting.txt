@@ -7,6 +7,6 @@ a time before time
 the #eons# eon
 the #eras# era
 the #periods# period
-the #epoch# epoch
+the #epochs# epoch
 a smoky jazz bar
 my #relatives#'s #houseroom#

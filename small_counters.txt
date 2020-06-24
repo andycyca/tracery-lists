@@ -1,3 +1,3 @@
-Once
-Twice
-Thrice
+once
+twice
+thrice

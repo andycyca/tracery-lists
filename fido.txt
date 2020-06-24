@@ -1,0 +1,2 @@
+This is #dog_names#, #dogs.a#
+This is #dog_names#, a #dogs#-#dogs# breed

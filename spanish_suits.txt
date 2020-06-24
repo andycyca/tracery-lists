@@ -1,4 +1,4 @@
-Cups
-Coins
-Clubs
-Swords
+cups
+coins
+clubs
+swords
