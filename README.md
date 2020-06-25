@@ -36,6 +36,8 @@ for _ in range(5):
     print(grammar.flatten("#origin#"))
 ```
 
+**Don't forget to read some documentation at the wiki!**
+
 ## A note on fictional characters
 
 1. The lists of fictional characters come exclusively from Public Domain sources. I don't know how copyright law applies to projects like this, storing and using copyright-protected characters for pseudo-random text creation. As such, they won't be admitted.
