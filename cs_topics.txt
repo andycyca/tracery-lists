@@ -1,0 +1,78 @@
+#tabletop_games#
+action selection
+algorithm design
+algorithms
+artificial intelligence
+automated reasoning
+automatons
+backward chaining
+bayesian networks
+bioinformatics
+boolean logic
+cellular automata
+chaos theory
+chatterbots
+coding theory
+compiler theory
+computational biochemistry
+computational chemistry
+computational humor
+computational physics
+computer audition
+computer graphics
+computer security
+computer vision
+computer-assisted proofs
+cryptography
+data mining
+data structures
+decision support system
+deep learning
+discrete mathematics
+distributed computing
+email filtering
+evolutionary algorithms
+evolutionary learning
+facial recognition systems
+formal semantics
+fuzzy systems
+game theory
+genetic algorithms
+graph theory
+handwriting recognition
+human-computer interaction
+hybrid neural networks
+image processing
+internet of things
+kalman filters
+machine learning
+machine translation
+markov chains
+markov models
+music
+natural language processing
+networking
+neural networks
+number theory
+operating systems
+optical character recognition
+optical character recognition
+particle swarm optimization
+pattern recognition
+perceptrons
+question answering
+recurrent neural networks
+relational databases
+robotics
+robotics
+scientific computing
+speech recognition
+statistical AI
+statistical semantics
+statistics
+strategic planning
+structured storage
+support vector machines
+text mining
+type theory
+video game AI

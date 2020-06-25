@@ -1,2 +1,7 @@
 - esoteric programming languages: https://en.wikipedia.org/w/index.php?title=Esoteric_programming_language&oldid=944589123
 - programming languages: https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&oldid=964300963
+- cs topics:
+  - https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence
+  - https://en.wikipedia.org/wiki/Outline_of_computer_science
+- cs book titles:
+  - Inspired by O'Reilly books

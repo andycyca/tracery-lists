@@ -9,7 +9,7 @@ LOLCODE
 Malbolge
 ModiScript
 Piet
-Pikachu
-Shakespeare
+Pikachu (the programming language, dummy)
+Shakespeare (the programming language, dummy)
 Unlambda
 Whitespace

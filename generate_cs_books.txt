@@ -1,0 +1,20 @@
+#cs_topics.capitalize# and #cs_topics.capitalize# with #programming_languages_switch#
+#programming_languages_switch# for Data Science
+#programming_languages_switch.capitalize# Development
+#programming_languages_switch.capitalize# Refactoring
+A Short Introduction to #programming_languages_switch#
+Applied #programming_languages_switch#
+Black Hat #programming_languages_switch#
+Fundamentals of #programming_languages_switch#
+Grey Hat #programming_languages_switch#
+Learn #programming_languages_switch# the Easy Way
+Learn #programming_languages_switch# the Hard Way
+Learn #programming_languages_switch# the Medium Way
+Practical #cs_topics.capitalize# with #programming_languages_switch#
+Principles of #programming_languages_switch#
+The #programming_languages_switch# Guide to #cs_topics.capitalize#
+The Book of #programming_languages_switch#
+The Past, Present and Future of #programming_languages_switch#
+The Problem with #programming_languages_switch# APIs
+Troubleshooting #programming_languages_switch#
+White Hat #programming_languages_switch#

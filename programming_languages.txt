@@ -445,9 +445,9 @@ Oz
 P
 P4
 P''
-ParaSail (programming language)
+ParaSail
 PARI/GP
-Pascal – ISO 7185
+Pascal
 Pascal Script
 PCASTL
 PCF
@@ -475,7 +475,7 @@ PL/P
 PL/SQL
 PL360
 PLANC
-Plankalkül
+Plankalkul
 Planner
 PLEX
 PLEXIL
