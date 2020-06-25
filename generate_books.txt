@@ -1,2 +1,0 @@
-The Book of #programming_languages#
-The Book of #esoteric_programming_languages#
