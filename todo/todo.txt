@@ -1,7 +1,9 @@
 2020-06-25 More generics CS book titles
+2020-06-25 #occupations# and maybe subdivide it further
 2020-06-25 A proper #programming_language# for #occupations# generator (to create ridiculous book titles like "FORTRAN for Bricklayers" or similar)
 2020-06-25 Food lists, preferably separated by regions/countries
 2020-06-25 Topics in Mathematics
 2020-06-25 Band names
 2020-06-25 A pseudo-palette generator
 2020-06-25 Experiment with the Library of Babel
+2020-06-25 RGB/RGBA/HSV color generator
